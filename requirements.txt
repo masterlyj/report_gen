@@ -1,0 +1,7 @@
+openai
+pyyaml
+pandas
+matplotlib
+duckduckgo-search
+python-dotenv
+python-docx
